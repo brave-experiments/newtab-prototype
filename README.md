@@ -1,6 +1,8 @@
 # newtab-prototype
 Extension bundle that mimics Brave's desktop NTP
 
+<img src="ntp.png" align="center" width="860">
+
 ## How to use this?
 
 1. Clone this repo
