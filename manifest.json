@@ -1,0 +1,1 @@
+{"description":"Brave NTP with new top sites mechanism","version":"0.1","name":"New Tab Page Top Sites Prototype","permissions":["bookmarks","topSites","chrome://favicon/*"],"manifest_version":2,"chrome_url_overrides":{"newtab":"index.html"},"content_security_policy":"script-src 'self' 'unsafe-eval'; object-src 'self'"}
